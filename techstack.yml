@@ -1,0 +1,18 @@
+repo_name: techuila/vimrc
+report_id: 1aa65fb4142f99389332297f1183a542
+repo_type: Public
+timestamp: '2023-11-15T06:29:08+00:00'
+requested_by: techuila
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
